@@ -8,6 +8,7 @@ defineProps<{ task: Task }>();
     :title="task.createdAt.toLocaleDateString()"
     class="task bg-white p-2 mb-2 rounded shadow-sm max-w-[250px]"
   >
+    <DragHandle class="pr-2" />
     <span>{{ task.title }}</span>
   </div>
 </template>
