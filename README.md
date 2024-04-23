@@ -1,4 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Trello Board
+
+This is a Trello-style task board, that was made from a tutorial provided by VueSchool. This project consists of the following features:
+1. A drag-and-drop interface with Vue.js
+2. Application is styled using TailwindCSS
+3. Used utilities from VueUse (Vue Draggable)
+
+To run the project, follow the instructions provided below:
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
