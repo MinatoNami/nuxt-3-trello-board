@@ -1,5 +1,7 @@
 # Nuxt 3 Trello Board
 
+<img width="1433" alt="image" src="https://github.com/MinatoNami/nuxt-3-trello-board/assets/23627532/b7224d74-c766-4e0d-9696-6552e211e2a1">
+
 This is a Trello-style task board, that was made from a tutorial provided by VueSchool. This project consists of the following features:
 1. A drag-and-drop interface with Vue.js
 2. Application is styled using TailwindCSS
